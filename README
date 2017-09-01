@@ -1,4 +1,4 @@
-Tulpar is a open source web vulnerability scanner for written to make web penetration testing automated. Tulpar has the following features.
+Tulpar is an open source web vulnerability scanner written in Python to make web penetration testing automated. Tulpar has the following features.
 
 -Sql Injection (GET Method)
 -XSS (GET Method)
